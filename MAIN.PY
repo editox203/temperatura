@@ -43,3 +43,5 @@ def analizar_temperaturas():
 # Llamar a la función principal
 if __name__ == "__main__":
     analizar_temperaturas()
+
+#me costo un kilo hacer esto profe. pongame un 7
